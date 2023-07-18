@@ -1,6 +1,6 @@
 # Calculator Application
 
-This project is a calculator. The app was develop using React, Javascript and CSS.
+The application was develop using React, Javascript and CSS.
 
 ## Available Scripts
 
